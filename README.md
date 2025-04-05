@@ -29,7 +29,7 @@ To run any project:
 1. Navigate into the desired ```project{number}_{description}``` folder:
 
 ``` bash
-cd project1_rendering_pipeline
+cd project1_ComposingImages
 ```
 2. Follow the instructions in the README.md or comments in the code (if provided).
 
