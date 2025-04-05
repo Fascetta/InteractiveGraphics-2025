@@ -18,9 +18,8 @@ Each project folder includes:
 
 Example:
 ``` python-repl
-project1_rendering_pipeline/
-project2_interaction_controls/
-project3_shading_and_lighting/
+project1_ComposingImages/
+project2_Transformations/
 ...
 ```
 # 🚀 Getting Started
